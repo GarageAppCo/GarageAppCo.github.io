@@ -5,7 +5,10 @@ appodeal.com, 97606, DIRECT
 bidmachine.io, 97606, DIRECT
 #AdMob
 #Copy YOUR_ADMOB_APP_ID entry from your Admob dashboard
-google.com, pub-4272971530084173, DIRECT, f08c47fec0942fa0
+google.com, pub-1525447278714484, DIRECT, f08c47fec0942fa0
+#Facebook [Replace the Business ID below with your Facebook Business ID]
+facebook.com, 231362861483561, RESELLER, c3e20eee3f780d68
+facebook.com, 789504228243000, RESELLER, c3e20eee3f780d68
 #Notsy
 google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
@@ -27,8 +30,6 @@ Contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
 eskimi.com, eas-2020000005, RESELLER
 openx.com, 540773939, RESELLER, 6a698e2ec38604c6
 appnexus.com, 11236, RESELLER, f5ab79cb980f11d1
-#Facebook [Replace the Business ID below with your Facebook Business ID]
-facebook.com, Business ID, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
