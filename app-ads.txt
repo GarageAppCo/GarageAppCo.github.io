@@ -6,6 +6,8 @@ bidmachine.io, 97606, DIRECT
 #AdMob
 google.com, pub-1525447278714484, DIRECT, f08c47fec0942fa0
 google.com, pub-4272971530084173, DIRECT, f08c47fec0942fa0
+#Appodeal + Google Ad Manager
+google.com, pub-7279990999620104, RESELLER, f08c47fec0942fa0
 #Facebook
 facebook.com, 231362861483561, RESELLER, c3e20eee3f780d68
 facebook.com, 789504228243000, RESELLER, c3e20eee3f780d68
