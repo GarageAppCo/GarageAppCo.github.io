@@ -153,7 +153,7 @@ appnexus.com,8178,RESELLER,f5ab79cb980f11d1
 
 appnexus.com,9393,RESELLER,f5ab79cb980f11d1
 
-aps.amazon.com,92df27dc-7a4d-4706-a387-9754834ca03b,DIRECT
+aps.amazon.com,1ebcb2cb-e55f-4c08-94a0-e79fe207a5b6,RESELLER
 
 aralego.com,par-627DA26297666D280EA8323E33ABAED7,RESELLER
 
